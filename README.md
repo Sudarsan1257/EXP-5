@@ -30,12 +30,24 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 
    
 ## CIRCUIT DIAGRAM:
+## LINE REGULATION
+<img width="1393" height="467" alt="image" src="https://github.com/user-attachments/assets/dbca287f-8fb3-42b3-b47f-5fa5811781ee" />
+
+## LOAD REGULATION
+<img width="1187" height="387" alt="image" src="https://github.com/user-attachments/assets/0cd571b1-fb63-4a74-b2d2-74a830c32457" />
 
 ## OBSERVATIONS:
+## LINE REGULATION
+<img width="483" height="278" alt="image" src="https://github.com/user-attachments/assets/b30d9878-6eec-4055-b60d-8daef50418dd" />
+
+## LOAD REGULATION
+<img width="438" height="327" alt="image" src="https://github.com/user-attachments/assets/39dbdb1a-d5a8-433e-a7a5-ab974fd7ef09" />
 
 ## REGULATION CHARACTERISTICS:
+<img width="501" height="235" alt="image" src="https://github.com/user-attachments/assets/37ae2e62-f4f8-489b-9d9f-fc8fc1c70077" />
 
 ## V-I & REGULATION CHARACTERISTICS:
+<img width="426" height="229" alt="image" src="https://github.com/user-attachments/assets/7259855b-74b8-418e-ae7b-0921b6da28ff" />
 
 ## PRECAUTIONS:
 
